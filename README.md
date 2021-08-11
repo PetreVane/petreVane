@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, 
+### no one's home 👉 we're out drinking 🍺
+
+![Petre's GitHub stats](https://github-readme-stats.vercel.app/api?username=petreVane&show_icons=true&count_private=true&hide=contribs,prs&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petreVane&theme=vue)](https://github.com/petreVane/github-readme-stats)
 
 <!--
 **PetreVane/petreVane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
