@@ -7,8 +7,8 @@ I do a very specific job and my professional interests are limited to my assigne
 #### I’m interested into:
 
 - Legacy Monoliths & spaghetti code - you can't really mess up something that's already messed up
-- Manual FTP Deployments on Fridays
-- Development: Enterprise Java, COBOL, Fortran and Brainfuck
+- Unapproved pull requests against the master branch, on Fridays
+- Development: Enterprise Java and Brainfuck
 - Ignoring alerts in Windows Server administration
 - Permission policies like this one:
 ```json
@@ -31,6 +31,6 @@ I am extremely offline, so the best way to reach me is to not reach me at all. I
 
 #### Fun facts:
 - I use the default hostname for all of my computers 💻
-- I run MacOs, by the way & **NOT** Arch like the cool dudes. There's no point in wasting my time configuring a terminal.
+- I run MacOs, by the way & **NOT** Arch like the cool dudes. Good luck convincing my 3year old that configuring a terminal it's an important thing to do.
 - On my own time, I drink instant tap water from the office kitchen, use whatever mechanical keyboard is cheapest and watch network television. 📺
 
