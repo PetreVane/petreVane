@@ -23,11 +23,11 @@ I do a very specific job and my professional interests are limited to my assigne
 
  I'm a big fan of proprietary software, stacked windows and always on-trial JetBrains IDEs 👍 
 
- I'm NOT active in the meetup scene. If you see me at a mandatory corporate event, I'm just trying to get through the day. There's no need for small talk. 🙅‍♂️
+ I'm NOT active in the meetup scene. If you see me at a mandatory corporate event, I'm just trying to get through the day. 🙅‍♂️
 
 #### Getting in touch ? 
-I am extremely offline, so the best way to reach me is to not reach me at all. I have a profile on linkedin but this is only to look professional.  
-Feel free to contact me but... why would you do that?? 🤔
+I am extremely offline, so the best way to reach me is to not reach me at all. I have a [profile on linkedin](https://www.linkedin.com/in/petre-v-92664312b/) but this is only to look professional.  
+
 
 #### Fun facts:
 - I use the default hostname for all of my computers 💻
