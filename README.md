@@ -2,7 +2,7 @@
 
 I'm currently doing corporate synergy in a cubicle farm 🏢 
  
-I do a very specific job and my professional interests are limited to my assigned tasks. Everything else is a waste of my time. 
+I do a very specific job and my professional interests are constrained to my assigned tasks. 
 
 #### I’m interested into:
 
